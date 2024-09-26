@@ -10,10 +10,9 @@ This repository contains a collection of machine learning (ML) and deep learning
 - [Preprocessing Steps](#preprocessing-steps)
 - [Machine Learning Models](#machine-learning-models)
 - [Deep Learning Models](#deep-learning-models)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - **Preprocessing functions**: Various preprocessing steps such as scaling, normalization, encoding, etc.
