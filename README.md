@@ -54,33 +54,10 @@ This repository contains a collection of machine learning (ML) and deep learning
   - BERT: Bidirectional Encoder Representations from Transformers
   - Encoder-Decoder models: Sequence-to-sequence models for tasks like machine translation.
 
-## Installation
-Clone the repository and install the necessary dependencies:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-```
-
-## Usage
-You can import and use any of the models/functions in your projects. For example:
-
-```python
-from models import linear_regression
-
-# Example usage of linear regression
-model = linear_regression()
-model.fit(X_train, y_train)
-predictions = model.predict(X_test)
-```
 
 For detailed usage and examples, check the individual model documentation in the `docs/` folder.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas or report any bugs.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
