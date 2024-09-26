@@ -1,4 +1,3 @@
-Here’s a draft for your `README.md` file that outlines your repository. You can customize it as needed:
 
 ---
 
