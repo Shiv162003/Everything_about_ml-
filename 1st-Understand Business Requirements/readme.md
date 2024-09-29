@@ -9,6 +9,7 @@
 ### 2. **Understand the Business Context**
    - Take time to learn about the business, the industry, and how things work. This could involve understanding the products or services the business offers, who the customers are, and the internal processes that relate to the problem at hand.
    - Talk to domain experts or people who work closely with the area you're focusing on to get deeper insights into how things operate on a day-to-day basis.
+![image](https://github.com/user-attachments/assets/2c43c50b-fc4b-40d9-9352-f46f0b7297e5)
 
 ### 3. **Clarify the Desired Outcome**
    - Make sure you fully understand what the business expects from the project. Stakeholders may not always be clear on what data science can or cannot do, so your job is to clarify these expectations.
