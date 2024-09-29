@@ -5,7 +5,7 @@
    - Define the problem and identify the customer needs.
 
 2. **Data Acquisition**  
-   - Collect data through various sources such as ETL processes, SQL databases (DB, data warehouses), log files, Hadoop, or Spark.
+   - Collect data through various sources such as Extract Transform Load processes, SQL databases (DB, data warehouses), log files, Hadoop, or Spark.
 
 3. **Data Preparation**  
    - Clean and preprocess the data to ensure it's ready for analysis.
